@@ -1,2 +1,2 @@
-# Ctrl_Intelligence_Hackathon_Game
-This is our repository for our UTD Hackathon Tower Defense Game. 
+# Ctrl_Intelligence_Hackathon
+This is our repository for our UTD Hackathon Project.
