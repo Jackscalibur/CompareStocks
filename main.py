@@ -4,7 +4,6 @@ import requests
 
 app = Flask(__name__)
 
-
 @app.route('/stockData', methods=['GET'])
 def stockData():
     symbols = request.args('symbols')
